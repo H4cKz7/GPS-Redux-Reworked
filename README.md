@@ -31,7 +31,6 @@ make sure the source you downloaded this mod from can be trusted and is approved
 2. Via asi loader/scripts folder
     - Drop/extract all the files from the release archive you downloaded into your scripts folder.
 
-## [Default Config](GPSLine/SA.GPS.CONF.ini)
 ### This mod uses the following libraries:
 * [mINI](https://github.com/metayeti/mINI)
 * [plugin-sdk](https://github.com/DK22Pac/plugin-sdk)
