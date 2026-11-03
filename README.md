@@ -19,14 +19,11 @@ If you'd like to distribute this mod, please ask for my (juicermv) permission fi
 If you downloaded this mod from anywhere other than https://github.com/juicermv/GTA-GPS-Redux,
 make sure the source you downloaded this mod from can be trusted and is approved by me. If you're concered about people reuploading this mod without permission, you may reach me at the page listed above.
 
-## You can find the latest release under the releases on the GitHub page. For the latest WIP build (unstable) check out the Actions tab on the GitHub.
-
 ## Installation
 
 
 1. Via modloader
-    - Create a new folder inside your modloader folder. You can name it whatever you want.
-    - Drop/extract all the files from the release archive you downloaded into that folder.
+    - Create copy the folder that comes in the download to your modloader folder. You can name it whatever you want.
 
 2. Via asi loader/scripts folder
     - Drop/extract all the files from the release archive you downloaded into your scripts folder.
