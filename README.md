@@ -4,6 +4,9 @@
     <img height="200" src='https://github.com/juicermv/GTA-GPS-Redux/assets/34755463/dc40c010-6e32-4ba0-b669-b128618bbd5e'>
 </div>
 
+# AI Disclaimer
+This mod is being reworked with the assistance of AI (Claude, by Anthropic).The code was reviewed and tested by me in GTA San Andreas, but it may still contain bugs or behave differently on setups I haven’t tested.
+
 # GTA SA GPS Redux
 
 This mod includes automatic navigation for mission markers as well as the player target.
